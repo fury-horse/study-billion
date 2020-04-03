@@ -1,4 +1,4 @@
-package com.msb.study;
+package com.msb.study.demo;
 
 
 import com.google.common.cache.CacheBuilder;
